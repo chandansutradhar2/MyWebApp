@@ -5,4 +5,8 @@
     <StartupObject>MyWebApp.Program</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Mvc.SelectList" Version="1.2.14" />
+  </ItemGroup>
+
 </Project>
